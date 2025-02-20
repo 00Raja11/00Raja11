@@ -1,11 +1,10 @@
-- 👋 Hi, I’m AHMAD RAJA KHAN 
-- 👀 I’m interested to explore the field of Web development (FullStack).
-- 🌱 I’m currently learning java and springboot
-- 💞️ I’m looking to collaborate on (ahmadrajak@gmail.com)
-- 📫 How to reach me : sajiyakhan024@gmail.com or ahmadrajak@gmail.com
-- ⚡ Fun fact: creating jokes
-
-<!---
-00Raja11/00Raja11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Ahmad Raja Khan | Web Developer & CS Student
+🎓 B.Tech in Computer Science & Engineering (NIMS University, 2022-2026)
+💻 Web Development Enthusiast | Full-stack experience with Flask, React, SQL, MongoDB
+🌍 Web Development Intern @ Kaleidonex (weather app, expense tracker)
+🛠 Tech Stack: Python, Java, C, SQL | Flask, Bootstrap, Pandas, Numpy
+🎯 Projects: Food delivery website, Gym website
+📜 Certifications: Introduction to Cybersecurity Awareness
+🎙 Community Leader: Co-organizer @ Web Development Club, Student Head @ NIMS University
+🚀 Always learning, building, and contributing!
+📫 Reach me at ahmadrajak0011@gmail.com | LinkedIn
