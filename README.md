@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ark0011
-- 👀 I’m interested to explore java.
+- 👋 Hi, I’m AHMAD RAJA KHAN 
+- 👀 I’m interested to explore the field of Web development (FullStack).
 - 🌱 I’m currently learning java and springboot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : sajiyakhan024@gmail.com
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on (ahmadrajak@gmail.com)
+- 📫 How to reach me : sajiyakhan024@gmail.com or ahmadrajak@gmail.com
 - ⚡ Fun fact: creating jokes
 
 <!---
